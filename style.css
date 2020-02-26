@@ -1,0 +1,37 @@
+body {
+    font-family: inherit;
+    color: aqua;
+    background-color: dodgerblue;
+    font-size: 20px;
+}
+p {
+    background-color: dodgerblue;
+    font-family: fantasy;
+    color: white;  
+    font-size: 20px
+}
+h1 {
+    
+    font-family: fantasy;
+}
+img {
+    width: 10000px
+}
+ol { 
+font-family: fantasy;
+    color: aquamarine;
+    background-color: forestgreen;
+    font-size: 20px
+
+
+}
+header a {
+    display: inline;
+    margin-right: 1.5em;
+    font-size: 20px;
+}
+
+h3  {
+    color: chartreuse;
+    font-size: 30px;
+}
