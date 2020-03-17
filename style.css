@@ -15,7 +15,10 @@ h1 {
     font-family: fantasy;
 }
 img {
-    width: 100%;
+    width: 70%;
+}
+.rotate{
+    transform(90deg);
 }
 ol { 
 font-family: fantasy;
