@@ -17,9 +17,7 @@ h1 {
 img {
     width: 70%;
 }
-.rotate{
-    transform(90deg);
-}
+
 ol { 
 font-family: fantasy;
     color: aquamarine;
